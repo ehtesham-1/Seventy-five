@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087158209457",
+    "project_id": "seventyfive-app",
+    "storage_bucket": "seventyfive-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087158209457:android:e66721189aaf8384f44b90",
+        "android_client_info": {
+          "package_name": "com.example.attendanceplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087158209457-ahmkj5b2ha2lgvo7jhhj39ei5bckt28v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-l99Mp7MMuA0zhtoO1JiCjGwbntqxtvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087158209457-ahmkj5b2ha2lgvo7jhhj39ei5bckt28v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
